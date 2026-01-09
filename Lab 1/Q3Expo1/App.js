@@ -1,6 +1,6 @@
-import { View } from "react-native-web";
+import { View } from "react-native";
 
-export default () => {
+export default AppUI = () => {
     const [pressCount, setPressCount] = useState(0);
 
     return(
